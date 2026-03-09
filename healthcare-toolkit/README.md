@@ -39,4 +39,13 @@
 
 ---
 
+## 👤 Created By
+
+**Sheldon Brown** aka *Bossman Shell*
+- 🔐 Healthcare Cybersecurity Specialist
+- 🎯 Penetration Tester & Bug Bounty Hunter
+- 💀 Red Team Operations
+
+---
+
 *For Educational Purposes Only - Consult with compliance experts for full HIPAA implementation*
